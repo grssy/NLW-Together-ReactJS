@@ -12,7 +12,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Ecoleta ♻️ Concluído 🚀 🚧
+	🚧  Situação: Concluído 🚀 🚧
 </h4>
 
 ## 💻 Sobre o projeto
