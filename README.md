@@ -1,6 +1,12 @@
 <h1 align="center">Letmeask</h1>
 
 
+[![GitHub issues](https://img.shields.io/github/issues/grssy/NLW-Together-ReactJS?style=for-the-badge)](https://github.com/grssy/NLW-Together-ReactJS/issues)
+[![GitHub stars](https://img.shields.io/github/stars/grssy/NLW-Together-ReactJS?style=for-the-badge)](https://github.com/grssy/NLW-Together-ReactJS/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/grssy/NLW-Together-ReactJS?style=for-the-badge)](https://github.com/grssy/NLW-Together-ReactJS/network)
+[![GitHub license](https://img.shields.io/github/license/grssy/NLW-Together-ReactJS?color=green&logo=MIT&logoColor=black&style=for-the-badge)](https://github.com/grssy/NLW-Together-ReactJS)
+
+
 <h1 align="center">
     <img alt="Letmeask" title="#NextLevelWeek" src="./github/landing-page.png" />
 </h1>
